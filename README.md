@@ -3,6 +3,8 @@
 
 A Random Joke Generator working with the JokeAPI
 
+# Screenshot
+![Screenshot (486)](https://github.com/nayaablakhani/Random-Joke-Generator/assets/127038241/5bc2cb6c-911c-4c10-a76e-176f121eaca3)
 
 
 ## API Reference
